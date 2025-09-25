@@ -38,25 +38,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=index-oss&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-oss&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=index-oss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=index-oss&theme=tokyonight&hide_border=false" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-oss&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/index-oss">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=index-oss&theme=radical" alt="Profile Summary" />
-  </a>
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=index-oss&theme=radical" alt="GitHub Streak" />
-</p>
+### 🌀 Activity Graph
+[![index-oss’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=index-oss&theme=tokyo-night)](https://github.com/index-oss/github-readme-activity-graph)
 
 ---
 
