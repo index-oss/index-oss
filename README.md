@@ -46,7 +46,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=index-oss&theme=radical&margin-w=10&margin-h=10" alt="Trophies"/>
+  <a href="https://github.com/index-oss">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=index-oss&theme=radical" alt="Profile Summary" />
+  </a>
 </p>
 
 ---
