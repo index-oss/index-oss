@@ -93,12 +93,20 @@
 ---
 
 ## 📫 Contact & Opportunities
-
-- 💬 Open to **backend roles, serious collaborations, and high-impact contributions**
-- 📧 Email: **gxoyyyo@gmail.com**
-- 🌐 GitHub: https://github.com/index-oss
-- 📷 Instagram: https://www.instagram.com/codexx__unofficial/
-
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/codexx__unofficial/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://github.com/index-oss" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
 ---
 
 <p align="center">
