@@ -18,7 +18,7 @@
 
 - 💼 Building **advanced, production-grade applications** solving real-world problems  
 - ✅ Delivered **end-to-end systems**: Frontend, Backend, Database & Full Integration  
-- 🎯 **2025 Focus (till June):** 3–4 **flagship projects** engineered for scale, performance, and reliability  
+- 🎯 **2026 Focus (till June):** 3–4 **flagship projects** engineered for scale, performance, and reliability  
 - 🧠 Philosophy: **Quality over quantity** — fewer projects, deeper systems  
 - ⚙️ Hands-on with **real engineering challenges**, not tutorials or low-level work  
 - 🤝 Selective contributor to **high-impact projects** beyond my current journey  
