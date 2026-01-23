@@ -52,7 +52,7 @@
 - Clean separation between computation and visualization layers  
 - Built as a foundation for analytical and scientific extensions  
 
-🔗 https://github.com/index-oss/Satellite-
+🔗 [https://github.com/index-oss/Satellite-](https://satellite-sable.vercel.app/)
 
 ---
 
