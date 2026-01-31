@@ -36,13 +36,6 @@ My work focuses on designing controlled, reliable systems that operate under rea
 
 ---
 
-## 💻 Selected Projects
-
-Each project represents a **distinct engineering problem space**.  
-No overlap. Each earns its place.
-
----
-
 ### 🔐 CVEStrike — Automated Threat Intelligence
 
 **Problem**  
@@ -88,13 +81,6 @@ Real-time visual systems require low-latency pipelines and consistent frame hand
 A computer-vision pipeline that processes live visual input and produces immediate visual feedback, focusing on frame consistency and low-latency rendering.
 
 🔗 https://github.com/index-oss/Sparkle-vision-
-
----
-
-## 🚧 Currently Building
-
-- Backend-heavy systems focused on **automation, data correctness, and real-world constraints**
-- Projects designed to reflect **production-style environments**, not tutorials
 
 ---
 
