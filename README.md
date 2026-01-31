@@ -1,114 +1,124 @@
-<h1 align="center">ℌ𝔦 👋, ℑ'𝔪 𝔐𝔬𝔥𝔦𝔱 𝔖𝔥𝔞𝔯𝔪𝔞</h1>
-<h3 align="center">Backend Engineer • Web Developer • System Builder</h3>
+<h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
+<h3 align="center">Backend Engineer • Systems & Automation</h3>
 
 <p align="center">
-  <a href="https://github.com/index-oss">
-    <img src="https://komarev.com/ghpvc/?username=index-oss&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=index-oss&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 Value Proposition
-**Backend-focused engineer delivering end-to-end, production-ready systems with clean architecture, real-world impact, and an ownership mindset.**
+
+I build backend and automation systems by **starting from the problem, not the stack**.
+
+My work focuses on designing controlled, reliable systems that operate under real-world constraints — where correctness, clear scope, and predictable behavior matter more than surface-level features.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Building **advanced, production-grade applications** solving real-world problems  
-- ✅ Delivered **end-to-end systems**: Frontend, Backend, Database & Full Integration  
-- 🎯 **2026 Focus (till June):** 3–4 **flagship projects** engineered for scale, performance, and reliability  
-- 🧠 Philosophy: **Quality over quantity** — fewer projects, deeper systems  
-- ⚙️ Hands-on with **real engineering challenges**, not tutorials or low-level work  
-- 🤝 Selective contributor to **high-impact projects** beyond my current journey  
-- 📈 Work style: **Smart execution, clean code, production standards**
+- Backend-focused engineer interested in **systems behavior, automation, and correctness**
+- Design projects around **explicit problem spaces and constraints**
+- Comfortable owning a system **end-to-end** when required
+- Prefer **fewer projects with deeper engineering** over rapid feature accumulation
+- Actively improving engineering judgment through real failure modes and trade-offs
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Used in Real Projects)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,nodejs,react,mysql,git,github,linux,docker" />
-</p>
+**Frontend:** HTML, CSS, Tailwind CSS, JavaScript  
+**Backend & Automation:** Python, JavaScript  
+**Databases:** MongoDB  
+**Systems & DevOps:** Linux, Bash, Docker  
+
+> Tools are chosen based on the problem — not the other way around.
 
 ---
 
 ## 💻 Selected Projects
 
-### 🎬 Moviemates  
-**Full-Stack Movie & TV Tracking Platform**  
-- Designed and implemented a **scalable backend architecture**  
-- API-driven system with persistent storage and clean data handling  
-- Built with performance, maintainability, and extensibility in mind  
-
-🔗 https://github.com/index-oss/Moviemates
+Each project represents a **distinct engineering problem space**.  
+No overlap. Each earns its place.
 
 ---
 
-### 🛰️ Satellite  
-**Satellite Visualization & Tracking System**  
-- Focused on **data accuracy, calculations, and system correctness**  
-- Clean separation between computation and visualization layers  
-- Built as a foundation for analytical and scientific extensions  
+### 🔐 CVEStrike — Automated Threat Intelligence
 
-🔗 [https://github.com/index-oss/Satellite-](https://satellite-sable.vercel.app/)
+**Problem**  
+Security teams face an overwhelming stream of vulnerability disclosures with little prioritization.
 
----
+**What I Built**  
+An automated system that ingests CVE and security advisory data, structures it, and analyzes it to surface relevant security insights efficiently, reducing manual monitoring overhead.
 
-### 🎨 Gradient Theme  
-**Reusable UI Component System**  
-- Modular gradient-based components for scalable UI development  
-- Designed for consistency, customization, and developer experience  
-
-🔗 https://github.com/index-oss/Gradient_theme
+🔗 https://github.com/index-oss/CVEStrike
 
 ---
 
-### 🖥️ Developer Mode  
-**Interactive UI & System Behavior Experiment**  
-- State-driven UI with animations and media control  
-- Focus on interaction logic, performance, and clean structure  
+### 🕷️ Spiderweb Crawler — Website Structure Discovery
 
-🔗 https://github.com/index-oss/Developer_mode
+**Problem**  
+Naive crawling of websites leads to duplication, infinite loops, and unreliable structural data.
+
+**What I Built**  
+A Python-based crawler that recursively maps internal website structure while preventing duplication, avoiding cycles, and enforcing controlled traversal.
+
+🔗 https://github.com/index-oss/Spiderweb-Crawler
 
 ---
 
-## 📊 GitHub Stats
+### 🛰️ Satellite — Computational Visualization System
+
+**Problem**  
+Mathematical and orbital data is difficult to interpret without accurate transformations and visualization.
+
+**What I Built**  
+A system that converts mathematical satellite models into an interactive visual representation, maintaining accuracy across coordinate transformations and time-based updates.
+
+🔗 https://github.com/index-oss/Satellite
+
+---
+
+### ✨ SparkleVision — Real-Time Visual Interaction
+
+**Problem**  
+Real-time visual systems require low-latency pipelines and consistent frame handling.
+
+**What I Built**  
+A computer-vision pipeline that processes live visual input and produces immediate visual feedback, focusing on frame consistency and low-latency rendering.
+
+🔗 https://github.com/index-oss/Sparkle-vision-
+
+---
+
+## 🚧 Currently Building
+
+- Backend-heavy systems focused on **automation, data correctness, and real-world constraints**
+- Projects designed to reflect **production-style environments**, not tutorials
+
+---
+
+## 🎯 What I’m Looking For
+
+- **Backend Engineer / Software Engineer Intern / Junior roles**
+- Work involving **real system development, automation, or backend logic**
+- Teams that value **engineering depth, clean design, and ownership**
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=index-oss&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=index-oss&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-oss&theme=tokyonight&layout=compact" height="150"/>
-</p>
-
----
-
-## 🌀 Activity Graph
-[![Codexx's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=index-oss&theme=tokyo-night)](https://github.com/index-oss)
-
----
-
-## 📫 Contact & Opportunities
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mohit-sharma-143271330" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/Index_oss" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/codexx__unofficial/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://github.com/index-oss" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
   </a>
-</p>
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=index-oss.index-oss" />
 </p>
