@@ -84,19 +84,6 @@ A computer-vision pipeline that processes live visual input and produces immedia
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=index-oss&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=index-oss&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-oss&theme=tokyonight&layout=compact" height="150"/>
-</p>
-
----
-
 ## 🌀 Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=index-oss&theme=tokyo-night)](https://github.com/index-oss)
