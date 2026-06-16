@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
+<h1 align="center"> I'm Mohit Sharma</h1>
 <h3 align="center">Backend Engineer • Systems & Automation</h3>
 
 <p align="center">
