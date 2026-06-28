@@ -98,6 +98,6 @@ Supporting tools built around automation, academic tooling, and security researc
 
 **Let's build something that doesn't break.**
 
-**[📧 infosec.mohitsharma@gmail.com](mailto:infosec.mohitsharma@gmail.com)** · [LinkedIn](https://linkedin.com/in/mohit-sharma-143271330) · [Portfolio](https://portfolio-rodexx.vercel.app/) · [GitHub](https://github.com/index-oss)
+**[📧 infosec.mohitsharma@gmail.com](mailto:infosec.mohitsharma@gmail.com)** · [LinkedIn](https://linkedin.com/in/mohit-sharma-143271330) · [Portfolio](https://portfolio-rodexx.vercel.app/) · [GitHub](https://github.com/index-oss)· [Twitter](https://x.com/Index_oss) 
 
 </div>
