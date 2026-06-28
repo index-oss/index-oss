@@ -63,8 +63,8 @@ I don't start with a stack. I start with the problem.
 
 ---
 
-### [Eavison](https://github.com/index-oss/Eavison) · [Exbow Lite](https://github.com/index-oss/Exbow-lite) · [ExamCraft](https://github.com/index-oss/ExamCraft)
-Supporting tools built around automation, academic tooling, and security research.
+### [Eavison](https://github.com/index-oss/Eavison) · [Exbow Offensive](https://github.com/index-oss/Exbow-Offensive) · [ExamCraft](https://github.com/index-oss/ExamCraft)
+Red-team framework for packet injection & WAF fingerprinting · Autonomous AI bug-hunting pipeline (Recon → Exploit → Report) · AI-powered academic tooling for B.Tech students.
 
 ---
 
