@@ -70,14 +70,6 @@ Supporting tools built around automation, academic tooling, and security researc
 
 ## 🛠️ Stack
 
-```
-Backend & Automation   Python · JavaScript · Bash
-Frontend               HTML · CSS · Tailwind CSS
-Databases              MongoDB
-Systems & DevOps       Linux · Docker · Shell Scripting
-Security               OWASP · WAF Evasion · IDOR/BOLA · Recon
-```
-
 > Tools are chosen based on the problem — not the other way around.
 
 ---
@@ -85,8 +77,6 @@ Security               OWASP · WAF Evasion · IDOR/BOLA · Recon
 ## 📊 Activity
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=index-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/index-oss)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=index-oss&theme=tokyonight&hide_border=true)](https://github.com/index-oss)
 
